@@ -12,9 +12,9 @@ This project is a user interface (UI) clone of the popular e-commerce website, M
 
 
 ## Demo
-<img src= "https://github.com/user-attachments/assets/8bbd2230-46c7-445a-8f4a-173dfc7b964a" height="400px"/><hr/>
-<img src= "https://github.com/user-attachments/assets/3a9587ef-a278-4daa-b604-ded7f345e22a" height="400px"/><hr/>
-<img src= "https://github.com/user-attachments/assets/cf72ad6b-72bf-4265-a394-f891fa02804f" height="400px"/>
+<img src= "https://github.com/user-attachments/assets/8bbd2230-46c7-445a-8f4a-173dfc7b964a" /><hr/>
+<img src= "https://github.com/user-attachments/assets/3a9587ef-a278-4daa-b604-ded7f345e22a"/><hr/>
+<img src= "https://github.com/user-attachments/assets/cf72ad6b-72bf-4265-a394-f891fa02804f"/>
 
 
 ## Features
